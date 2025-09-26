@@ -1,0 +1,1 @@
+This is simple python exercise wich uses python class, function along with getting experience with git and gitHub.
